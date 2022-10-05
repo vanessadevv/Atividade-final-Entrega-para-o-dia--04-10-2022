@@ -1,0 +1,117 @@
+/*INDEX PARTE 1*/
+
+
+/* conjunto gerAL */
+table,td{
+   border: 1px solid white;
+}
+
+body{
+  height: 90vh;
+  width: 90vw;
+}
+
+a{
+   text-decoration: none;
+   color: aliceblue;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+/*tabela*/
+#tabela1{
+   margin-top: 100px;
+   margin-left: 350px;
+   width: 60%;
+   height: 60%;
+   border-collapse: collapse;
+
+}
+
+
+/*imagem perfil*/
+.image-perfil{
+   height: 120px;
+   width: 120px;
+   border-radius: 100%;
+   border: 3px solid aliceblue;
+   
+}
+
+/* blocos */
+.td-1{
+   text-align: center; 
+   width: 20%; 
+   height: 20%;
+   background-color: #993399;
+
+}
+
+.td-2{
+  
+   width: 80%; 
+   height: 80%;
+   background-color: aliceblue;
+
+}
+
+/*BLOCO CONTEUDO */
+
+.titulo-1{
+   margin-top: -50px;
+   margin-bottom: 10px;
+   margin-left: 30px;
+   font-size: 250%;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.endereco-1{
+   margin-left: 35px;
+   
+}
+.descricao-pessoa1{
+   margin-left: 35px;
+}
+.icones{
+   margin-left: 35px;
+}
+
+/*CONHECIMENTOS PARTE 2*/
+
+.conhecimentos{
+   margin-top: -50px;
+   margin-bottom: 10px;
+   margin-left: 30px;
+   font-size: 250%;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#lista-ordenada{
+
+   padding-top: 20px;
+   margin-left: 50px;
+   list-style-type: upper-alpha;
+   font-size: 150%;
+
+}
+
+
+/*OBJETIVOS PARTE 3*/
+
+.objetivos{
+   margin-top: -50px;
+   margin-bottom: 10px;
+   margin-left: 30px;
+   font-size: 250%;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#lista-nao-ordenada{
+   padding-top: 20px;
+   margin-left: 50px;
+   font-size: 150%;
+}
+
